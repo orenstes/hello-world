@@ -1,2 +1,3 @@
 # hello-world
 just another repository
+Hello, it's Esther. Just trying this out to see how Github works...
